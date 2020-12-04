@@ -7,6 +7,6 @@
 ![map of bathymetry](../regions/notebooks-maps/bathy_NATL60.png)
 
 - Simulations conducted with this configuration :
-  - [NATL60-CJM165](natl60-cjm165.md)
+  - [NATL60-CJM165](NATL60-CJM165.md)
 
 - [Grid description files](../items/NATL60-grid-files.md)
