@@ -22,5 +22,5 @@ Here are the steps to add it in the catalog :
 
 It looks like a lot but some of the links should already exist if another dataset with the same simulation or the same region or for the same platform already exists, so in this case just check ! If the dataset is available on multiple platforms, check for all the platforms of course.
 
-If you create a 'card' for a new configuration please also add the 'card' for the corresponding grid files and try to plot ots bathymetry like in regions/notebooks-maps/maps-eNATL60.ipynb
-If you create a 'card' for a new region please try to plot its area with a notebook like  in regions/notebooks-maps/maps-eNATL.ipynb
+If you create a 'card' for a new configuration please also add the 'card' for the corresponding grid files and try to plot ots bathymetry like in [this notebook](regions/notebooks-maps/maps-eNATL60.ipynb).
+If you create a 'card' for a new region please try to plot its area with a notebook like in [this notebook](regions/notebooks-maps/maps-eNATL.ipynb).
