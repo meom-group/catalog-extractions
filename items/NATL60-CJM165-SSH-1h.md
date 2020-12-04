@@ -1,7 +1,7 @@
 # NATL60-CJM165 sea surface height
 
- - Configuration : [NATL60](../simulations/natl60.md)
- - Simulation : [NATL60-CJM165](../simulations/natl60-cjm165.md)
+ - Configuration : [NATL60](../simulations/NATL60.md)
+ - Simulation : [NATL60-CJM165](../simulations/NATL60-CJM165.md)
  - Region : [North Atlantic](../regions/NATL.md)
  - Period : 01/10/2012-30/09/2013
  - Frequency : 1h
