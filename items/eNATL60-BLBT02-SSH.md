@@ -1,7 +1,7 @@
 # eNATL60-BLBT02 sea surface height
 
- - Configuration : [eNATL60](../simulations/enatl60.md)
- - Simulation : [eNATL60-BLBT02](../simulations/enatl60-blbt02.md)
+ - Configuration : [eNATL60](../simulations/eNATL60.md)
+ - Simulation : [eNATL60-BLBT02](../simulations/eNATL60-BLBT02.md)
  - Region : [North Atlantic](../regions/eNATL.md)
  - Period : 01/07/2009-01/10/2010
  - Frequency : 1h
