@@ -1,6 +1,6 @@
 # NATL60-CJM165
 
-- Configuration : [NATL60](natl60.md)
+- Configuration : [NATL60](NATL60.md)
 - Informations on the simulation : 
 
 - Data are available on :
