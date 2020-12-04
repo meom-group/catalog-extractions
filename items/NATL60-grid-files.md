@@ -1,6 +1,6 @@
 # NATL60 grid files
 
- - Configuration : [NATL60](../simulations/natl60.md)
+ - Configuration : [NATL60](../simulations/NATL60.md)
  - Region : [North Atlantic](../regions/NATL.md)
  - Variables : grid variables
  - Path : 
