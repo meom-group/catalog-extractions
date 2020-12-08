@@ -14,4 +14,6 @@
   - MEDBAL extractions :
     - [3D fields](../items/MEDBAL60-BLB002-1h-TSUVW-0-1000m.md)
 
+  - COSNWA extractions :
+    - [3D fields](../items/COSNWA-BLB002-1h-TSUVW-0-1000m.md)
 
