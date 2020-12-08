@@ -1,12 +1,14 @@
 # Sea Surface Temperature
 
+
 You can find extractions of SST from the simulations :
-  - [eNATL60-BLBT02](SST-eNATL60-BLBT02.md)
-  - [eNATL60-BLB002](SST-eNATL60-BLB002.md)
-  - [NATL60-CJM165](SST-NATL60-CJM165.md)
-  
+
+  - eNATL60-BLB002 :
+   - [MEDWEST region](../items/MEDWEST60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md)
+   - [NANFL region](../items/NANFL60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md)
+ 
 You can find extractions of SST for the region :
-  - [NATL](SST-NATL.md)
-  - [eNATL](SST-eNATL.md)
-  - [MEDWEST](SST-MEDWEST.md)
-  - [NANFL](SST-NANFL.md)
+  - MEDWEST :
+    - [eNATL60-BLB002 simulation](../items/MEDWEST60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md)
+  - NANFL :
+    - [eNATL60-BLB002 simulation](../items/NANFL60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md)
