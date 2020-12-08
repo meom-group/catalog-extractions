@@ -7,7 +7,7 @@
   
 ![NATL map](notebooks-maps/region_NATL.png)
 
-  - [extened North ATLantic config](eNATL.md)
+  - [extended North ATLantic config](eNATL.md)
   
 ![eNATL map](notebooks-maps/region_eNATL.png)
 
