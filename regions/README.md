@@ -1,7 +1,7 @@
 # Regions
 
-- Global outputs :
-- North Atlantic :
+## Global outputs :
+## North Atlantic :
 
   - [NATL config](NATL.md) 
 ![NATL map](notebooks-maps/region_NATL.png)
@@ -11,7 +11,7 @@
   - [Acores](ACO.md)
   
   
-- Mediterannean :
+## Mediterannean :
   - [Western Mediterranean](MEDWEST.md)
 
 ![MEDWEST map](notebooks-maps/region_MEDWEST.png)
