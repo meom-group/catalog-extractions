@@ -14,5 +14,8 @@
 
   - [Labrador Sea](LAB.md)
   - [Acores](ACO.md)
+  
 - Mediterannean :
   - [Western Mediterranean](MEDWEST.md)
+
+![MEDWEST map](notebooks-maps/region_MEDWEST.png)
