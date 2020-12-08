@@ -6,6 +6,7 @@ You can browse data by :
   - [simulations](simulations/README.md)
   - [region of interest](regions/README.md)
   - [platforms](platforms/README.md) 
+  - [variables](variables/README.md)
   
 To add a new dataset from a simulation you must know :
   - the configuration : CONFIG
