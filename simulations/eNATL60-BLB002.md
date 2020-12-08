@@ -17,3 +17,4 @@
   - [MEDWEST](../regions/MEDWEST-eNATL60-BLB002.md)
   - [NANFL](../regions/NANFL-eNATL60-BLB002.md)
   - [MEDBAL](../regions/MEDBAL-eNATL60-BLB002.md)
+  - [COSNWA](../regions/COSNWA-eNATL60-BLB002.md)
