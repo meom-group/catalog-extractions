@@ -4,3 +4,7 @@
   - North Atlantic (whole domain):
     - [Surface Velocities](../items/eNATL60-BLB002-SSU-SSV.md)
     - [Sea Surface Height](../items/eNATL60-BLB002-SSH.md) 
+    
+  - MEDWEST extractions :
+    - [Surface fields](../items/MEDWEST60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md) 
+
