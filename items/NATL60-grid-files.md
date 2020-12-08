@@ -8,13 +8,13 @@
    - on [cal1 server](../platforms/cal1.md) : 
       - coordinate file : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_coordinates_v4.nc
       - byte mask : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_v4.1_cdf_byte_mask.nc
-      - mesh hgrk : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_hgr.nc
+      - mesh hgr : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_hgr.nc
       - mesh zgr : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_zgr.nc
       - bathymetry : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_bathymeter_zps_gebco_v4_time.nc
    - on [CINES-occigen](../platforms/occigen.md) :
       - coordinate file : /store/molines/NATL60/NATL60-I/NATL60_coordinates_v4.nc
       - byte mask : /store/molines/NATL60/NATL60-I/NATL60_v4.1_cdf_byte_mask.nc
-      - mesh hgrk :/store/molines/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_hgr.nc
+      - mesh hgr :/store/molines/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_hgr.nc
       - mesh zgr : /store/molines/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_zgr.nc
       - bathymetry : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_bathymeter_zps_gebco_v4_time.nc
    - on [PANGEO cloud](../platforms/pangeo.md) : 
