@@ -11,3 +11,5 @@
   - NANFL extractions :
     - [Surface fields](../items/NANFL60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md) 
 
+  - MEDBAL extractions :
+    - [3D fields](../items/MEDBAL60-BLB002-1h-TSUVW-0-1000m.md)
