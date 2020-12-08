@@ -1,6 +1,6 @@
 # Datasets available on CINES occigen
 
-The simulations available on CINES are :
+The simulations available on occigen are :
   - eNATL60-BLBT02 :
     - the whole simulation is stored on CINES server : /store/CT1/hmg2840/lbrodeau/eNATL60/eNATL60-BLBT02*-S
     - North Atlantic (whole domain):
