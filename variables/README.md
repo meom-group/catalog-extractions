@@ -8,6 +8,6 @@
     
   - 3D fields :
     - 0-1000m :
-      - [Temperature] (TEMP-0-1000m.md)
+      - [Temperature](TEMP-0-1000m.md)
       - [Salinity](SAL-0-1000m.md)
       - [Velocities](UVW-1000m.md)
