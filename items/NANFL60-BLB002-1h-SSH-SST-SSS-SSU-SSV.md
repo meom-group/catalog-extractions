@@ -7,7 +7,7 @@
  - Frequency : 1h
  - Variables : sossheig, sosstsst, sosaline, sozocrtx, somecrty
  - Vertical levels : surface
- - Size : 52Go
+ - Size : 95Go
  - Grid files : [details here](NANFL60-grid-files.md)
  - Path : 
    - on [MEOM opendap](../platforms/opendap.md) : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/Eurosea/NANFL/catalog.html
