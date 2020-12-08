@@ -1,4 +1,4 @@
-# Se Surface Height
+# Sea Surface Height
 
 You can find extractions of SSH from the simulations :
   - [eNATL60-BLBT02](SSH-eNATL60-BLBT02.md)
