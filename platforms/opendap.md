@@ -1,6 +1,6 @@
 # Datasets available on MEOM opendap
 
-The simulations available on CINES are :
+The simulations available on opendap are :
   - eNATL60-BLBT02 :
     - North Atlantic (whole domain):
       - [Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)  
