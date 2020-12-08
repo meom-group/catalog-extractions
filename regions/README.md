@@ -11,9 +11,9 @@
   
 ![eNATL map](notebooks-maps/region_eNATL.png)
 
-
   - [Labrador Sea](LAB.md)
   - [Acores](ACO.md)
+  
   
 - Mediterannean :
   - [Western Mediterranean](MEDWEST.md)
