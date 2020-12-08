@@ -1,12 +1,22 @@
 # Sea Surface Height
 
 You can find extractions of SSH from the simulations :
-  - [eNATL60-BLBT02](SSH-eNATL60-BLBT02.md)
-  - [eNATL60-BLB002](SSH-eNATL60-BLB002.md)
-  - [NATL60-CJM165](SSH-NATL60-CJM165.md)
-  
+  - eNATL60-BLBT02 :
+    - [eNATL region](../items/eNATL60-BLBT02-SSH.md)
+  - eNATL60-BLB002 :
+   - [eNATL region](../items/eNATL60-BLB002-SSH.md)
+   - [MEDWEST region](../items/MEDWEST60-BLB002-SSH.md)
+   - [NANFL region](../items/NANFL60-BLB002-SSH.md)
+  - NATL60-CJM165
+   - [NATL region](../items/NATL60-CJM165-SSH-1h.md)
+ 
 You can find extractions of SSH for the region :
-  - [NATL](SSH-NATL.md)
-  - [eNATL](SSH-eNATL.md)
-  - [MEDWEST](SSH-MEDWEST.md)
-  - [NANFL](SSH-NANFL.md)
+  - NATL :
+    - [NATL60-CJM165](../items/NATL60-CJM165-SSH-1h.md)
+  - eNATL :
+    - [eNATL60-BLB002 simulation](../items/eNATL60-BLB002-SSH.md)
+    - [eNATL60-BLBT02 simulation](../items/eNATL60-BLBT02-SSH.md)
+  - MEDWEST :
+    - [eNATL60-BLB002 simulation](../items/MEDWEST60-BLB002-SSH.md)
+  - NANFL :
+    - [eNATL60-BLB002 simulation](../items/NANFL60-BLB002-SSH.md)
