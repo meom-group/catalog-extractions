@@ -3,6 +3,7 @@
 You can find extractions of SSH from the simulations :
   - eNATL60-BLBT02 :
      - [eNATL region](../items/eNATL60-BLBT02-SSH.md)
+     - [Degraded SSH (factor 3) eNATL region](../items/eNATL20-BLBT02-SSH-1h.md)
   - eNATL60-BLB002 :
      - [eNATL region](../items/eNATL60-BLB002-SSH.md)
      - [MEDWEST region](../items/MEDWEST60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md)
