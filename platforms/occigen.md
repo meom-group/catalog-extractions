@@ -5,7 +5,8 @@ The simulations available on occigen are :
     - the whole simulation is stored on CINES server : /store/CT1/hmg2840/lbrodeau/eNATL60/eNATL60-BLBT02*-S
     - North Atlantic (whole domain):
       - [Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
-      - [Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)  
+      - [Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
+      - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
   - eNATL60-BLB002 :
     - the whole simulation is stored on CINES server : /store/CT1/hmg2840/lbrodeau/eNATL60/eNATL60-BLB002*-S
     - North Atlantic (whole domain):
