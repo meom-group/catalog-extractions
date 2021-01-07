@@ -7,7 +7,7 @@
  - Frequency : 1d (mean from 1h)
  - Variables : degraded with a spatial factor 3 sossheig, sosstsst, sosaline, sozocrtx, somecrty
  - Vertical levels : surface
- - Size : 52Go
+ - Size : 219Mo
  - Grid files : [details here](MEDWEST60-grid-files.md)
  - Path : 
    - on [MEOM opendap](../platforms/opendap.md) : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/Eurosea/Daily_Degraded_Surf/catalog.html
