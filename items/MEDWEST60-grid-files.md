@@ -1,6 +1,6 @@
 # MEDWEST60 grid files
 
- - Extracted from : [NATL60](../simulations/NATL60.md)
+ - Extracted from : [eNATL60](../simulations/eNATL60.md)
  - Region : [Western Mediteranean](../regions/MEDWEST.md)
  - Variables : grid variables
  - Path : 
