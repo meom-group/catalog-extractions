@@ -1,6 +1,7 @@
 # North West Atlantic Swot Cross-Over
 
 The COSNWA region corresponds to the blue area on this map :
+
 ![COSNWA map](notebooks-maps/region_COSNWA.png)
 
 
