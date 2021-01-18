@@ -1,6 +1,6 @@
 # COSNWA60 grid files
 
- - Extracted from : [NATL60](../simulations/NATL60.md)
+ - Extracted from : [eNATL60](../simulations/eNATL60.md)
  - Region : [North West Atlantic Swot Cross-Over](../regions/COSNWA.md)
  - Variables : grid variables
  - Path : 
