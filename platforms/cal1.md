@@ -6,6 +6,8 @@ The simulations available on cal1 are :
       - [Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
       - [Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
       - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
+    - Central point of the OSMOSIS region:
+      - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
   - eNATL60-BLB002 :
     - North Atlantic (whole domain):
       - [Surface Velocities](../items/eNATL60-BLB002-SSU-SSV.md)
