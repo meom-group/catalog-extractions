@@ -4,6 +4,8 @@ The simulations available on opendap are :
   - eNATL60-BLBT02 :
     - North Atlantic (whole domain):
       - [Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)  
+    - Central point of the OSMOSIS region:
+      - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
   - eNATL60-BLB002 :
     - North Atlantic (whole domain):
       - [Surface Velocities](../items/eNATL60-BLB002-SSU-SSV.md)
