@@ -17,4 +17,5 @@ A simulation ran with [eNATL60](enatl60.md) configuration.
   - [OSMOSIS](../regions/OSMOSIS-eNATL60-BLBT02.md)
   - [GULFSTREAM](../regions/GULFSTREAM-eNATL60-BLBT02.md)
   - [MEDWEST](../regions/MEDWEST-eNATL60-BLBT02.md)
+  - [OSMOSISc](../regions/OSMOSISc-eNATL60-BLBT02.md)
   
