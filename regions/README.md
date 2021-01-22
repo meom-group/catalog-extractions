@@ -22,6 +22,12 @@
   
 ![COSNWA map](notebooks-maps/region_COSNWA.png)
 
+  - [Central point of the OSMOSIS region](OSMOSISc.md)
+
+![OSMOSISc map](notebooks-maps/region_OSMOSISc.png)
+
+
+
 ## Mediterannean :
 
   - [Western Mediterranean](MEDWEST.md)
