@@ -11,8 +11,6 @@
 
 <details>
   <summary><strong>by region</strong></summary>
-
-<hr style="border:1px solid blue">  
   
 - [COSNWA](../regions/COSNWA.md) :
   - simulation [eNATL60-BLB002](../simulations/eNATL60-BLB002.md) : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/COSNWA60-BLB002-1h-TSUVW-0-1000m.md)
@@ -22,14 +20,12 @@
    - simulation [eNATL60-BLBT02](../simulations/eNATL60-BLBT02.md) : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/NOE60-BLBT02-1h-TSUVW-O-bottom.md)
 - [OSMOSISc](../regions/OSMOSISc.md) :
    - simulation [eNATL60-BLBT02](../simulations/eNATL60-BLBT02.md) : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)  
-<hr style="border:1px solid blue">  
+
 </details>
 
 
 <details>
   <summary><strong>by simulation</strong></summary>
-
-<hr style="border:1px solid blue">  
   
 - [eNATL60-BLB002](../simulations/eNATL60-BLB002.md) :
    - [COSNWA](../regions/COSNWA.md) region  : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/COSNWA60-BLB002-1h-TSUVW-0-1000m.md)
@@ -38,5 +34,4 @@
    - [NOE](../regions/NOE.md) region : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/NOE60-BLBT02-1h-TSUVW-O-bottom.md)
    - [OSMOSISc](../regions/OSMOSISc.md) region : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)  
 
-<hr style="border:1px solid blue">  
 </details>
