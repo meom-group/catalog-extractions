@@ -16,6 +16,7 @@
    - simulation [eNATL60-BLBT02](../simulations/eNATL60-BLBT02.md) : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/NOE60-BLBT02-1h-TSUVW-O-bottom.md)
 - [SICIL](../regions/SICIL.md) :
    - simulation [eNATL60-BLBT02](../simulations/eNATL60-BLBT02.md) : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/SICIL60-BLBT02-1h-TSUVW-O-bottom.md)
+   - simulation [eNATL60-BLB002](../simulations/eNATL60-BLB002.md) : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/SICIL60-BLB002-1h-TSUVW-O-bottom.md)
 
 </details>
 
@@ -26,9 +27,11 @@
 - [eNATL60-BLB002](../simulations/eNATL60-BLB002.md) :
    - [COSNWA](../regions/COSNWA.md) region  : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/COSNWA60-BLB002-1h-TSUVW-0-1000m.md)
    - [MEDBAL](../regions/MEDBAL.md) region : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/MEDBAL60-BLB002-1h-TSUVW-0-1000m.md)
+   - [SICIL](../regions/SICIL.md) region : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/SICIL60-BLB002-1h-TSUVW-O-bottom.md)
 - [eNATL60-BLBT02](../simulations/eNATL60-BLBT02.md) :
    - [NOE](../regions/NOE.md) region : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/NOE60-BLBT02-1h-TSUVW-O-bottom.md)
    - [OSMOSISc](../regions/OSMOSISc.md) region : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)  
+   - [SICIL](../regions/SICIL.md) region : details [here](https://github.com/meom-group/catalog-extractions/blob/main/items/SICIL60-BLBT02-1h-TSUVW-O-bottom.md)
 
 </details>
 
