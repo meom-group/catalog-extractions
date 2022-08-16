@@ -10,8 +10,5 @@
   - [IGE-MEOM-CAL1](../platforms/cal1-NATL60-CJM165.md)
   - [MEOM opendap](../platforms/opendap-NATL60-CJM165.md)
 - Regions extracted are :
-  - [North Atlantic](../regions/NATL-NATL60-CJM165.md)
-  - [Açores](../regions/ACO-NATL60-CJM165.md)
-  - [OSMOSIS](../regions/OSMOSIS-NATL60-CJM165.md)
-  - [GULFSTREAM](../regions/GULFSTREAM-NATL60-CJM165.md)
-  - [MEDWEST](../regions/MEDWEST-NATL60-CJM165.md)
+  - North Atlantic :
+      - [Hourly Sea Surface Height](../items/NATL60-CJM165-SSH-1h.md)
