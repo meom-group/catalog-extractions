@@ -11,7 +11,8 @@ The simulations available on cal1 are :
   - eNATL60-BLB002 :
     - North Atlantic (whole domain):
       - [Surface Velocities](../items/eNATL60-BLB002-SSU-SSV.md)
-      - [Sea Surface Height](../items/eNATL60-BLB002-SSH.md)      
+      - [Sea Surface Height](../items/eNATL60-BLB002-SSH.md) 
+      - [Daily 0-10m Mean Velocities](../items/eNATL60-BLB002-1d-UV-mean-0-10m.md)
     - MEDWEST extractions :
       - [Surface fields](../items/MEDWEST60-BLB002-1h-SSH-SST-SSS-SSU-SSV.md) 
     - NANFL extractions :
