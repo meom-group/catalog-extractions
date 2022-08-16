@@ -5,4 +5,5 @@ The MEDBAL region corresponds to the blue area on this map :
 
 
 MEDBAL region have been extracted from the simulations :
-  - [eNATL60-BLB002](MEDBAL-eNATL60-BLB002.md)
+  - eNATL60-BLB002 :
+    - [Surface fields](../items/MEDBAL60-BLB002-1h-TSUVW-0-1000m.md) 
