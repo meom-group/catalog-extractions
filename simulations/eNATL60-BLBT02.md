@@ -1,7 +1,6 @@
 # eNATL60-BLBT02
 
-A simulation ran with [eNATL60](enatl60.md) configuration.
-
+- Configuration : [eNATL60](enatl60.md)
 - Informations on the simulation : https://github.com/ocean-next/eNATL60/blob/master/02_experiment-setup.md
 
 ## Data are available on :
