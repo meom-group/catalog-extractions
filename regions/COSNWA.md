@@ -7,4 +7,4 @@ The COSNWA region corresponds to the blue area on this map :
 
 COSNWAL region have been extracted from the simulations :
   - eNATL60-BLB002 :
-    - [Surface fields](../items/COSNWA-BLB002-1h-TSUVW-0-1000m.md) 
+    - [3D TSUVW 0-1000m](../items/COSNWA60-BLB002-1h-TSUVW-0-1000m.md)
