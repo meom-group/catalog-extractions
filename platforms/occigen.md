@@ -25,7 +25,9 @@ The simulations available on occigen are :
 - MEDBAL extractions :
   - [Hourly 3D fields](../items/MEDBAL60-BLB002-1h-TSUVW-0-1000m.md)
 - COSNWA extractions :
-  - [Hourly 3D fields](../items/COSNWA-BLB002-1h-TSUVW-0-1000m.md)  
+  - [Hourly 3D fields](../items/COSNWA-BLB002-1h-TSUVW-0-1000m.md) 
+- BBOX extractions :
+  - [Hourly 3D Velocities](../items/BBOX60-BLB002-1h-UV-O-bottom.md)
 </details>
 
 <details><summary><strong> NATL60-CJM165 : </strong></summary>
