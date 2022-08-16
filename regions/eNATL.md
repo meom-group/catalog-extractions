@@ -7,8 +7,8 @@ The eNATL region corresponds to the blue area on this map :
 eNATL region have been extracted from the simulations :
 
   - eNATL60-BLBT02 : 
-    - [Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
-    - [Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
+    - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
+    - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
     - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
 
   - eNATL60-BLB002 :
