@@ -9,26 +9,15 @@ A simulation ran with [eNATL60](enatl60.md) configuration.
 <details><summary><strong> CINES-occigen : </strong></summary>
 <hr style="border:1px solid blue">  
   
-    - extended North Atlantic (whole domain):
+- extended North Atlantic (whole domain):
       - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
       - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
       - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
-    - Central point of the OSMOSIS region:
+- Central point of the OSMOSIS region:
       - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
 
 </details>
 
-<details><summary><strong> PANGEO cloud : </strong></summary>
-
-<hr style="border:1px solid blue">  
-  
-    - extended North Atlantic (whole domain):
-      - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
-      - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
-      - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
-    - Central point of the OSMOSIS region:
-      - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
-</details>
 
 <details><summary><strong> IGE-MEOM-CAL1 : </strong></summary>
 
@@ -52,6 +41,10 @@ A simulation ran with [eNATL60](enatl60.md) configuration.
       - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
     - Central point of the OSMOSIS region:
       - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
+</details>
+
+<details><summary><strong> PANGEO cloud : </strong></summary>
+<hr style="border:1px solid blue">  
 </details>
 
 <details><summary><strong> CNES-HAL : </strong></summary>
