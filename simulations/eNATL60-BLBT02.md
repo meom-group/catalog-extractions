@@ -10,12 +10,13 @@ A simulation ran with [eNATL60](enatl60.md) configuration.
 <hr style="border:1px solid blue">  
   
 - extended North Atlantic (whole domain):
-      - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
-      - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
-      - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
+  - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
+  - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
+  - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
 - Central point of the OSMOSIS region:
-      - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
+  - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
 
+<hr style="border:1px solid blue">  
 </details>
 
 
@@ -23,24 +24,26 @@ A simulation ran with [eNATL60](enatl60.md) configuration.
 
 <hr style="border:1px solid blue">  
   
-    - extended North Atlantic (whole domain):
-      - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
-      - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
-      - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
-    - Central point of the OSMOSIS region:
-      - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
+ - extended North Atlantic (whole domain):
+   - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
+   - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
+   - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
+ - Central point of the OSMOSIS region:
+   - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
+<hr style="border:1px solid blue">  
 </details>
 
 <details><summary><strong> MEOM opendap : </strong></summary>
 
 <hr style="border:1px solid blue">  
   
-    - extended North Atlantic (whole domain):
-      - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
-      - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
-      - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
-    - Central point of the OSMOSIS region:
-      - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
+ - extended North Atlantic (whole domain):
+   - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
+   - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
+   - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
+ - Central point of the OSMOSIS region:
+   - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
+<hr style="border:1px solid blue">  
 </details>
 
 <details><summary><strong> PANGEO cloud : </strong></summary>
@@ -57,10 +60,10 @@ A simulation ran with [eNATL60](enatl60.md) configuration.
  
 <hr style="border:1px solid blue">  
    
-    - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
-    - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
-    - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
-  
+ - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
+ - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
+ - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
+<hr style="border:1px solid blue">  
 </details>
 
 <details><summary><strong> Açores : </strong></summary>
