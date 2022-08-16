@@ -10,6 +10,6 @@
  - Size : 3 To
  - Grid files : [details here](eNATL60-grid-files.md)
  - Path : 
-   - on [CINES-occigen](../platforms/occigen.md) : /store/albert7a/eNATL60/eNATL60-BLB002-S/1h/eNATL60
+   - on [CINES-occigen](../platforms/occigen.md) : /store/albert7a/eNATL60/eNATL60-BLB002-S/1h/eNATL60/UVvertmean0-10m
  - Scripts : 
    - [make_compute_vertmean_BLB002_UV0-10m.ksh](https://github.com/auraoupa/extract-occigen/blob/main/make_compute_vertmean_BLB002_UV0-10m.ksh)
