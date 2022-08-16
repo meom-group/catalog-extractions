@@ -6,4 +6,4 @@ OSMOSISc is a station point corresponding to the blue circle on this map :
 
 
 OSMOSISc region have been extracted from the simulations :
-  - [eNATL60-BLBT02](OSMOSISc-eNATL60-BLBT02.md)
+  - eNATL60-BLBT02 :
