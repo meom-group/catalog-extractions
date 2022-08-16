@@ -15,3 +15,4 @@ eNATL region have been extracted from the simulations :
     - [Surface Velocities](../items/eNATL60-BLB002-SSU-SSV.md)
     - [Sea Surface Height](../items/eNATL60-BLB002-SSH.md)
     - [Daily 0-10m Mean Velocities](../items/eNATL60-BLB002-1d-UV-mean-0-10m.md)
+    - [Hourly 0-10m Mean Velocities](../items/eNATL60-BLB002-1h-UV-mean-0-10m.md)
