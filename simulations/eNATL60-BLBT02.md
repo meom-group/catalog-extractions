@@ -12,10 +12,12 @@ A simulation ran with [eNATL60](enatl60.md) configuration.
   - [MEOM opendap](../platforms/opendap-eNATL60-BLBT02.md)
   
 - Regions extracted are :
-  - [North Atlantic](../regions/NATL-eNATL60-BLBT02.md)
-  - [Açores](../regions/ACO-eNATL60-BLBT02.md)
-  - [OSMOSIS](../regions/OSMOSIS-eNATL60-BLBT02.md)
-  - [GULFSTREAM](../regions/GULFSTREAM-eNATL60-BLBT02.md)
-  - [MEDWEST](../regions/MEDWEST-eNATL60-BLBT02.md)
-  - [OSMOSISc](../regions/OSMOSISc-eNATL60-BLBT02.md)
+  - extended North Atlantic (whole domain) :
+    - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
+    - [Hourly Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
+    - [Degraded Sea Surface Height (factor 3)](../items/eNATL20-BLBT02-SSH-1h.md)
+  - Açores :
+  - OSMOSIS :
+  - GULFSTREAM :
+  - MEDWEST :
   
