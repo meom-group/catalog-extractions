@@ -1,4 +1,4 @@
-# eNATL60-BLB002 vertical mean of velocities between 0 and 10m
+# eNATL60-BLB002 daily vertical mean of velocities between 0 and 10m
 
  - Configuration : [eNATL60](../simulations/eNATL60.md)
  - Simulation : [eNATL60-BLB002](../simulations/eNATL60-BLB002.md)
