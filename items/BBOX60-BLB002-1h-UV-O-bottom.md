@@ -10,4 +10,4 @@
  - Size : 
  - Grid files : [details here](BBOX60-grid-files.md)
  - Path : 
-   - on [CINES-occigen](../platforms/occigen.md) : /store/albert7a/eNATL60/eNATL60-BLB002-S/1h/BBOX
+   - on [CINES-occigen](../platforms/occigen.md) : ```/store/albert7a/eNATL60/eNATL60-BLB002-S/1h/BBOX```
