@@ -10,5 +10,7 @@
  - Size : 725M
  - Grid files : [details here](SICIL60-grid-files.md)
  - Path :
-   - on [MEOM opendap](../platforms/opendap.md) : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html 
-   - on [CINES-occigen](../platforms/occigen.md) : /store/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SICIL
+   - on [MEOM opendap](../platforms/opendap.md) : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html
+   - on [cal1 server](../platforms/cal1.md) : ```/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL```
+   - on [GRICAD](../platforms/gricad.md) : ```/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL```
+   - on [CINES-adastra](../platforms/adastra.md) : ```/lus/store/CT1/ige2071/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SICIL```
