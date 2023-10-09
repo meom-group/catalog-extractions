@@ -17,7 +17,7 @@ After the reset of MEOM's data, the simulations that are now available to downlo
 </details>
 
 
-~~~~~~~~~~~~
+-----------------------------------
 
 Before the reset :
 
