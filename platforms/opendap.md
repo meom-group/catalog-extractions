@@ -1,5 +1,25 @@
 # Datasets available on MEOM opendap
 
+After the reset of MEOM's data, the simulations that are now available to download on the opendap are :
+
+<details><summary><strong> eNATL60-BLBT02 : </strong></summary> 
+- SICIL region :
+  - [Hourly Sea Surface Height](../items/SICIL60-BLBT02-1h-SSH.md)
+  - [Hourly Air Sea Fluxes](../items/SICIL60-BLBT02-1h-flxT.md)
+  - [Hourly 3D fields](../items/SICIL60-BLBT02-1h-TSUVW-O-bottom.md)
+</details>
+
+<details><summary><strong> eNATL60-BLB002 : </strong></summary>  
+</details>
+
+<details><summary><strong> NATL60-CJM165 : </strong></summary>
+</details>
+
+
+
+
+Before the reset :
+
 The simulations available on opendap are :
 <details><summary><strong> eNATL60-BLBT02 : </strong></summary>
   
