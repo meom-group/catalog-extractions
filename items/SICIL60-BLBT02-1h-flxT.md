@@ -5,7 +5,7 @@
  - Region : [SICIL](../regions/SICIL.md)
  - Period : 01/07/2009-31/07/2009
  - Frequency : 1h
- - Variables : qsr_oce, qt_oce, solhflup, sowafld, sowaflup, taubot, 
+ - Variables : qsr_oce, qt_oce, solhflup, sowafld, sowaflup, taubot
  - Vertical levels : surface
  - Size : 3,5G
  - Grid files : [details here](SICIL60-grid-files.md)
