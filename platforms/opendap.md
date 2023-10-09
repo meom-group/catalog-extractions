@@ -21,7 +21,7 @@ After the reset of MEOM's data, the simulations that are now available to downlo
 
 ~Before the reset :~
 
-The simulations available on opendap are :
+~The simulations available on opendap are :~
 <details><summary><strong> eNATL60-BLBT02 : </strong></summary>
   
 - North Atlantic (whole domain):
