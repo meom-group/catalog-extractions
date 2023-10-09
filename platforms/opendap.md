@@ -22,7 +22,7 @@ After the reset of MEOM's data, the simulations that are now available to downlo
 ~Before the reset :~
 
 ~The simulations available on opendap are :~
-<details><summary><strong> eNATL60-BLBT02 : </strong></summary>
+<details><summary><strike> eNATL60-BLBT02 : </strike></summary>
   
 - North Atlantic (whole domain):
   - [Hourly Surface Velocities](../items/eNATL60-BLBT02-SSU-SSV.md)
@@ -32,7 +32,7 @@ After the reset of MEOM's data, the simulations that are now available to downlo
   - [Times Series of TSUVW](../items/OSMOSISc60-BLBT02-1h-TSUVW-0-1000m.md)
 </details>
 
-<details><summary><strong> eNATL60-BLB002 : </strong></summary>
+<details><summary><strike> eNATL60-BLB002 : </strike></summary>
   
 - North Atlantic (whole domain):
   - [Hourly Surface Velocities](../items/eNATL60-BLB002-SSU-SSV.md)
@@ -48,7 +48,7 @@ After the reset of MEOM's data, the simulations that are now available to downlo
   - [Hourly 3D fields](../items/COSNWA-BLB002-1h-TSUVW-0-1000m.md)
 </details>
 
-<details><summary><strong> NATL60-CJM165 : </strong></summary>
+<details><summary><strike> NATL60-CJM165 : </strike></summary>
   
 - North Atlantic (whole domain):
   - [Hourly Sea Surface Height](../items/NATL60-CJM165-SSH-1h.md)  
