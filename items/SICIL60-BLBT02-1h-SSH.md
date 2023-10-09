@@ -7,7 +7,7 @@
  - Frequency : 1h
  - Variables : sossheig
  - Vertical levels : surface
- - Size : 
+ - Size : 725M
  - Grid files : [details here](SICIL60-grid-files.md)
  - Path :
    - on [MEOM opendap](../platforms/opendap.md) : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html 
