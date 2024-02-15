@@ -8,9 +8,18 @@ After the reset of MEOM's data, the simulations that are now available to downlo
   - [Hourly Sea Surface Height](../items/SICIL60-BLBT02-1h-SSH.md)
   - [Hourly Air Sea Fluxes](../items/SICIL60-BLBT02-1h-flxT.md)
   - [Hourly 3D fields](../items/SICIL60-BLBT02-1h-TSUVW-O-bottom.md)
+
+- OSMOSIS region :
+  - [Hourly Surface Fields](../items/OSMO60-BLBT02-1h-surf.md)
+- eNATL60 region :
+  - [Daily 60m-depth T, S and W](../items/eNATL60-BLBT02-1d-TSW-60m.md)  
+
 </details>
 
 <details><summary><strong> eNATL60-BLB002 : </strong></summary>  
+- OSMOSIS region :
+  - [Hourly Surface Fields](../items/OSMO60-BLB002-1h-surf.md)</details>
+
 </details>
 
 <details><summary><strong> NATL60-CJM165 : </strong></summary>
