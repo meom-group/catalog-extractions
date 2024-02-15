@@ -17,6 +17,7 @@ After the reset of MEOM's data, the simulations that are now available to downlo
 </details>
 
 <details><summary><strong> eNATL60-BLB002 : </strong></summary>  
+
 - OSMOSIS region :
   - [Hourly Surface Fields](../items/OSMO60-BLB002-1h-surf.md)</details>
 
