@@ -1,6 +1,6 @@
-# NEMO model outputs extractions by MEOM and Ocean Next
+# NEMO model outputs extractions by MEOM 
 
-Here you can find and put the informations on where (which machine) to find the various extractions and computations done from the outputs of NEMO simulations produced by MEOM and Ocean Next
+Here you can find and put the informations on where (which machine) to find the various extractions and computations done from the outputs of NEMO simulations produced by MEOM 
 
 You can browse data by :
   - [simulations](simulations/README.md)
