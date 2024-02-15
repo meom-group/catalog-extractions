@@ -4,6 +4,9 @@ After the reset of MEOM's data, the simulations that are now available to downlo
 
 <details><summary><strong> eNATL60-BLBT02 : </strong></summary> 
   
+- North Atlantic (the whole domain) :
+  - [Daily 60m-depth T, S and W](../items/eNATL60-BLBT02-1d-TSW-60m.md)
+
 - SICIL region :
   - [Hourly Sea Surface Height](../items/SICIL60-BLBT02-1h-SSH.md)
   - [Hourly Air Sea Fluxes](../items/SICIL60-BLBT02-1h-flxT.md)
@@ -11,12 +14,13 @@ After the reset of MEOM's data, the simulations that are now available to downlo
 
 - OSMOSIS region :
   - [Hourly Surface Fields](../items/OSMO60-BLBT02-1h-surf.md)
-- eNATL60 region :
-  - [Daily 60m-depth T, S and W](../items/eNATL60-BLBT02-1d-TSW-60m.md)  
 
 </details>
 
 <details><summary><strong> eNATL60-BLB002 : </strong></summary>  
+  
+- North Atlantic (the whole domain) :
+  - [Hourly Surface Fields](../items/eNATL60-BLB002-1h-surf.md)
 
 - OSMOSIS region :
   - [Hourly Surface Fields](../items/OSMO60-BLB002-1h-surf.md)</details>
